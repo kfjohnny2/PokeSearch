@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeSearch</string>
+    <string name="failed_loading_msg">Something went wrong</string>
+    <string name="failed_network_msg">No internet connection</string>
+</resources>
